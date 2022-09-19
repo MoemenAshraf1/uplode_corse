@@ -1,5 +1,5 @@
-# uplode_corse
-my first projrame
+# upload_corse
+my first programe
 
 
 ## projecte notes
